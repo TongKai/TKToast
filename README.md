@@ -1,12 +1,17 @@
 # TKToast
 iOS实现Android的Toast效果
+* 截图
+
+![](https://github.com/TongKai/TKToast/blob/master/screen.gif)
 
 * 如何使用
-		
+	
+	
 		//style：中间的提示
-	 	[TKToast makeToast:@"今天下雨，好讨厌" style:TKToastStyleMid];
+		[TKToast makeToast:@"今天下雨，好讨厌" style:TKToastStyleMid];
     	//style：底部的提示
     	[TKToast makeToast:@"今天下雨，好讨厌" style:TKToastStyleBottom];
+
 
 * 感谢
 
